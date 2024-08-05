@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="{{asset('index/icomoon.css')}}">
     <link rel="stylesheet" href="{{asset('index/style.css')}}">
 
-    
+
 </head>
 
 <body>
@@ -106,15 +106,10 @@
         </div>
     </section>
     <section class="ftco-section bg-light">
-        <div class="container-fluid px-6">
+        <div class="container-fluid px-2000">
             <div class="row">
-                    <div class="staff">
-                        <div class="img-wrap d-flex align-items-stretch">
-
-                        </div>
-                        <div class="text pt-3 text-center">
-                            <h3> </h3>
-                            <span class="position mb-2"> </span>
+                        <div class="text pt-200 text-center">
+                            <span class="position mb-50"> </span>
                             <div class="faded">
                                       <table border="1" style="width:100%; border-collapse: collapse;">
                                         <thead>
@@ -144,9 +139,6 @@
                         </div>
                     </div>
                 </div>
-
-
-
             </div>
         </div>
     </section>
